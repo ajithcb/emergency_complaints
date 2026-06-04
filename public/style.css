@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #74ebd5, #9face6);
+}
+
+.container {
+  width: 420px;
+  margin: auto;
+  margin-top: 120px;
+  padding: 25px;
+  background: rgba(255,255,255,0.85);
+  border-radius: 12px;
+  text-align: center;
+}
+
+h1, h2 {
+  margin-bottom: 20px;
+}
+
+input, select, button {
+  width: 90%;
+  padding: 10px;
+  margin: 8px 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+.admin-btn {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+}
+
+table {
+  width: 90%;
+  margin: 40px auto;
+  border-collapse: collapse;
+  background: white;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.login-small {
+  position: fixed;
+  bottom: 70px;
+  left: 20px;
+  padding: 6px 14px;
+  font-size: 12px;
+}
