@@ -1,10 +1,15 @@
-📌 Project Overview
+
+## Real-Time Emergency Complaint Tracking System
+
+A full-stack web application designed to streamline the process of registering, tracking, and managing emergency complaints. The system provides a centralized platform where users can submit complaints and monitor their status in real time, while administrators can efficiently manage and update complaint records.
+
+## Project Overview
 
 Traditional complaint management systems often rely on manual processes, leading to delays, lack of transparency, and inefficient record management. This project addresses these challenges by providing a digital solution that enables users to report issues online and track their progress.
 
 The application supports secure user authentication, complaint submission, complaint tracking, and an admin dashboard for complaint management.
 
-✨ Features
+## Features
 👤 User Features
 User Registration with Email
 Secure Login Authentication
@@ -22,10 +27,10 @@ Pending
 Processing
 Completed
 Manage Complaint Records
-📊 Complaint Details
+
+## Complaint Details
 
 Each complaint includes:
-
 User Email
 Place / Location
 Complaint Description
